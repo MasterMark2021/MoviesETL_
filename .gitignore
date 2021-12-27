@@ -2,14 +2,13 @@
 movies_metadata.csv
 ratings.csv
 *.csv
-# Adding config.py file.
-config.py
-*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+# Adding config.py file.
+config.py
 
 # C extensions
 *.so
